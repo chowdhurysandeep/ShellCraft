@@ -59,9 +59,17 @@ cd ShellCraft
 ```
 sudo bash install.sh
 ```
+## or
+```
+sudo ./install.sh
+```
 ### Run ShellCraft:
 ```
 shellx 
+```
+### Uninstall ShellCraft:
+```
+sudo ./uninstall.sh
 ```
 ---
 
