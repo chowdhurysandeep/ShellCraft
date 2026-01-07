@@ -11,7 +11,7 @@ ShellCraft/
 ├── LICENSE # License file
 ├── README.md # Project documentation
 ├── shellcraft.py # Main payload generator script
-├── install.sh # Installs required Python packages with pip and sets up ReverseX
+├── install.sh # Installs required Python packages with pip and sets up ShellCraft
 └── uninstall.sh # Uninstall tool
 ```
 ---
