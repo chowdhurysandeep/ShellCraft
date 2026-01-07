@@ -125,8 +125,22 @@ excluded to avoid execution and compatibility issues.
 ```
 
 ---
+## ⚠️Disclaimer
 
-🧠 Author
+ShellCraft is intended strictly for **educational and authorized security testing**.
+
+By using this tool, you agree that:
+- You will only use it on systems you own or have explicit permission to test
+- You understand local and international cybercrime laws
+- You accept full responsibility for your actions
+
+Unauthorized use of this software may violate laws such as:
+- Information Technology Act (India)
+- Computer Misuse Act
+- CFAA (USA)
+
+---
+## 🧠 Author
 
 Sandeep Chowdhury
 🔗 GitHub: https://github.com/chowdhurysandeep
