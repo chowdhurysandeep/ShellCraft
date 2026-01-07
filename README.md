@@ -7,6 +7,7 @@ It helps security learners and red teamers quickly generate, manage, and test re
 ## 📁 Project Structure
 ```
 ShellCraft/
+├── Disclaimer # Project Disclaimer
 ├── LICENSE # License file
 ├── README.md # Project documentation
 ├── shellcraft.py # Main payload generator script
@@ -59,7 +60,7 @@ cd ShellCraft
 ```
 sudo bash install.sh
 ```
-## or
+or
 ```
 sudo ./install.sh
 ```
@@ -68,6 +69,10 @@ sudo ./install.sh
 shellx 
 ```
 ### Uninstall ShellCraft:
+```
+sudo bash uninstall.sh
+```
+or
 ```
 sudo ./uninstall.sh
 ```
