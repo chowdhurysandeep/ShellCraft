@@ -7,7 +7,6 @@ It helps security learners and red teamers quickly generate, manage, and test re
 ## 📁 Project Structure
 ```
 ShellCraft/
-├── Disclaimer # Project Disclaimer
 ├── LICENSE # License file
 ├── README.md # Project documentation
 ├── shellcraft.py # Main payload generator script
