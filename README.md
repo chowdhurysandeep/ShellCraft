@@ -141,5 +141,5 @@ Unauthorized use of this software may violate laws such as:
 ---
 ## 🧠 Author
 
-Sandeep Chowdhury
+Sandeep Prasad Chowdhury
 🔗 GitHub: https://github.com/chowdhurysandeep
