@@ -122,19 +122,6 @@ excluded to avoid execution and compatibility issues.
 ```
 ---
 
-## ⚙️ Built-in Features Chart
-```
-| Feature                     | Status |
-|-----------------------------|--------|
-| Interactive Payload Menu    | ✅ Yes |
-| Alphabetical Sorting        | ✅ Yes |
-| Base64 Obfuscation          | ✅ Yes |
-| Clipboard Copy              | ✅ Yes |
-| Built-in Netcat Listener    | ✅ Yes |
-| Cross-Platform Support      | ⚠️ Partial |
-| Windows Payload Support    | ✅ Yes |
-| Linux Payload Support       | ✅ Yes |
-```
 
 ---
 ## ⚠️Disclaimer
