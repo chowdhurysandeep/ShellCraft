@@ -134,4 +134,4 @@ Unauthorized use may violate laws including:
 ## 👤 Author
 
 **Sandeep Prasad Chowdhury**
-🔗 [GitHub](https://github.com/chowdhurysandeep) · [LinkedIn](https://www.linkedin.com/in/sandeep-chowdhury-661a54397)
+🔗 [GitHub](https://github.com/chowdhurysandeep)
